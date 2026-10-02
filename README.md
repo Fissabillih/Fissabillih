@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sifa Fissabillih 👋
 
-<!--
-**Fissabillih/Fissabillih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Informatics Engineering student at Universitas Dian Nuswantoro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+- Web Development
+- Application Development
+- Machine Learning
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Java
+- Python
+- Laravel
+- React
+- Git & GitHub
+
+## Projects
+
+Some projects I've worked on:
+
+- PBO - Java Project
+- Laravel Web Application
+- Barbershop Booking System
+
+## Connect With Me
+
+- GitHub: [@Fissabillih](https://github.com/Fissabillih)
